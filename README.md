@@ -1,2 +1,2 @@
 # mapas
-Desarrollo colaborativo de mapas
+Desarrollo colaborativo de mapas en leaflet
